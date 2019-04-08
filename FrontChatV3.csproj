@@ -201,20 +201,6 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Scripts\assets\log\charlesforstman.png" />
-    <Content Include="Scripts\assets\log\danielhardman.png" />
-    <Content Include="Scripts\assets\log\donnapaulsen.png" />
-    <Content Include="Scripts\assets\log\haroldgunderson.png" />
-    <Content Include="Scripts\assets\log\harveyspecter.png" />
-    <Content Include="Scripts\assets\log\jessicapearson.png" />
-    <Content Include="Scripts\assets\log\jonathansidwell.png" />
-    <Content Include="Scripts\assets\log\katrinabennett.png" />
-    <Content Include="Scripts\assets\log\louislitt.png" />
-    <Content Include="Scripts\assets\log\mikeross.png" />
-    <Content Include="Scripts\assets\log\rachelzane.png" />
-    <Content Include="Scripts\assets\log\SERVER.PNG" />
-    <Content Include="Scripts\bootstrap.js" />
-    <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Areas\HelpPage\Views\Web.config" />
     <Content Include="Areas\HelpPage\Views\Shared\_Layout.cshtml" />
     <Content Include="Areas\HelpPage\Views\Help\ResourceModel.cshtml" />
@@ -239,24 +225,45 @@
     </Content>
     <None Include="Properties\PublishProfiles\FrontChatV1 - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\FrontChatV1 - Web Deploy.pubxml" />
-    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\assets\log\charlesforstman.png" />
+    <Content Include="Scripts\assets\log\danielhardman.png" />
+    <Content Include="Scripts\assets\log\donnapaulsen.png" />
+    <Content Include="Scripts\assets\log\haroldgunderson.png" />
+    <Content Include="Scripts\assets\log\harveyspecter.png" />
+    <Content Include="Scripts\assets\log\jessicapearson.png" />
+    <Content Include="Scripts\assets\log\jonathansidwell.png" />
+    <Content Include="Scripts\assets\log\katrinabennett.png" />
+    <Content Include="Scripts\assets\log\louislitt.png" />
+    <Content Include="Scripts\assets\log\mikeross.png" />
+    <Content Include="Scripts\assets\log\rachelzane.png" />
+    <Content Include="Scripts\assets\log\SERVER.PNG" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\jquery-1.10.2.min.map" />
     <Content Include="Scripts\modernizr-2.6.2.js" />
     <Content Include="Scripts\respond.js" />
     <Content Include="Scripts\respond.min.js" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\charlesforstman.png" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\danielhardman.png" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\donnapaulsen.png" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\haroldgunderson.png" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\harveyspecter.png" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\jessicapearson.png" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\jonathansidwell.png" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\katrinabennett.png" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\louislitt.png" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\mikeross.png" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\rachelzane.png" />
+    <Content Include="Scripts\WebSocktsChatFront\assets\log\SERVER.PNG" />
+    <Content Include="Scripts\WebSocktsChatFront\es2015-polyfills.c5dd28b362270c767b34.js" />
     <Content Include="Scripts\WebSocktsChatFront\favicon.ico" />
-    <Content Include="Scripts\WebSocktsChatFront\index.html" />
-    <Content Include="Scripts\WebSocktsChatFront\main.js" />
-    <Content Include="Scripts\WebSocktsChatFront\main.js.map" />
-    <Content Include="Scripts\WebSocktsChatFront\polyfills.js" />
-    <Content Include="Scripts\WebSocktsChatFront\polyfills.js.map" />
-    <Content Include="Scripts\WebSocktsChatFront\runtime.js" />
-    <Content Include="Scripts\WebSocktsChatFront\runtime.js.map" />
-    <Content Include="Scripts\WebSocktsChatFront\styles.js" />
-    <Content Include="Scripts\WebSocktsChatFront\styles.js.map" />
-    <Content Include="Scripts\WebSocktsChatFront\vendor.js" />
-    <Content Include="Scripts\WebSocktsChatFront\vendor.js.map" />
+    <Content Include="Scripts\WebSocktsChatFront\fontawesome-webfont.912ec66d7572ff821749.svg" />
+    <Content Include="Scripts\WebSocktsChatFront\main.c8e034e798ee13072097.js" />
+    <Content Include="Scripts\WebSocktsChatFront\polyfills.8bbb231b43165d65d357.js" />
+    <Content Include="Scripts\WebSocktsChatFront\runtime.26209474bfa8dc87a77c.js" />
+    <Content Include="Scripts\WebSocktsChatFront\styles.2eb296710026d3d6745f.css" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -271,6 +278,11 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shared\Error.cshtml" />
     <Content Include="Views\Shared\_Layout.cshtml" />
+    <None Include="Scripts\jquery-1.10.2.intellisense.js" />
+    <Content Include="Scripts\WebSocktsChatFront\fontawesome-webfont.674f50d287a8c48dc19b.eot" />
+    <Content Include="Scripts\WebSocktsChatFront\fontawesome-webfont.af7ae505a9eed503f8b8.woff2" />
+    <Content Include="Scripts\WebSocktsChatFront\fontawesome-webfont.b06871f281fee6b241d6.ttf" />
+    <Content Include="Scripts\WebSocktsChatFront\fontawesome-webfont.fee66e712a8a08eef580.woff" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -286,7 +298,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
